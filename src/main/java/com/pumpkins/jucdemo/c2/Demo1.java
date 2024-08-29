@@ -1,4 +1,4 @@
-package com.pumpkins.jucdemo.c1;
+package com.pumpkins.jucdemo.c2;
 
 import lombok.extern.slf4j.Slf4j;
 
